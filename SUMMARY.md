@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Programs
+* [Programs](programs/README.md)
    * Brigade
    * Civic Cloud
    * Developers' Alliance
