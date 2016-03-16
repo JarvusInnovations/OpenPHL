@@ -7,7 +7,7 @@
    * Developers' Alliance
    * Project Support
 * [Revenues](revenues/README.md)
-   * Alliance Memberships
+   * [Alliance Memberships](revenues/alliance_memberships.md)
 * [Governance](governance/README.md)
    * [Board](governance/board.md)
    * [Working Groups](governance/working_groups.md)
