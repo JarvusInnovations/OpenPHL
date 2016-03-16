@@ -9,6 +9,6 @@
 * [Revenues](revenues/README.md)
    * Alliance Memberships
 * [Governance](governance/README.md)
-   * Board
+   * [Board](governance/board.md)
    * Working Groups
 
