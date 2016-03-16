@@ -8,5 +8,5 @@
    * Project Support
 * [Revenues](revenues/README.md)
    * Alliance Memberships
-* Governance
+* [Governance](governance/README.md)
 
