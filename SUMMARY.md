@@ -6,7 +6,7 @@
    * Civic Cloud
    * Developers' Alliance
    * Project Support
-* Revenues
+* [Revenues](revenues/README.md)
    * Alliance Memberships
 * Governance
 
