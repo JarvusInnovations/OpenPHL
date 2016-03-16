@@ -7,5 +7,6 @@
    * Developers' Alliance
    * Project Support
 * Revenues
+   * Alliance Memberships
 * Governance
 
