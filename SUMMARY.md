@@ -4,7 +4,7 @@
 * [Programs](programs/README.md)
    * Brigade
    * Civic Cloud
-   * Developers' Alliance
+   * [Developers' Alliance](programs/developers_alliance.md)
    * [Project Support](programs/project_support.md)
 * [Revenues](revenues/README.md)
    * [Alliance Memberships](revenues/alliance_memberships.md)
