@@ -10,5 +10,5 @@
    * Alliance Memberships
 * [Governance](governance/README.md)
    * [Board](governance/board.md)
-   * Working Groups
+   * [Working Groups](governance/working_groups.md)
 
