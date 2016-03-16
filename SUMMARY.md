@@ -9,4 +9,5 @@
 * [Revenues](revenues/README.md)
    * Alliance Memberships
 * [Governance](governance/README.md)
+   * Board
 
