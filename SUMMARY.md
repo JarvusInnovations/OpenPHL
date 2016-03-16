@@ -5,7 +5,7 @@
    * Brigade
    * Civic Cloud
    * Developers' Alliance
-   * Project Support
+   * [Project Support](programs/project_support.md)
 * [Revenues](revenues/README.md)
    * [Alliance Memberships](revenues/alliance_memberships.md)
 * [Governance](governance/README.md)
