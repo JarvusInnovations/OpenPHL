@@ -11,5 +11,5 @@
 * [Governance](governance/README.md)
    * [Board](governance/board.md)
    * [Working Groups](governance/working_groups.md)
-   * Alliance Roundtables
+   * [Alliance Roundtables](governance/alliance_roundtables.md)
 
