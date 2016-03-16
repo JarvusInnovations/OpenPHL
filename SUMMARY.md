@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Programs](programs/README.md)
    * Brigade
-   * Civic Cloud
+   * [Civic Cloud](programs/civic_cloud.md)
    * [Developers' Alliance](programs/developers_alliance.md)
    * [Project Support](programs/project_support.md)
 * [Revenues](revenues/README.md)
